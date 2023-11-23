@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tzuhuangyen.github.io/W6HomeWork/",
   "name": "yen-demo-vite-react",
   "private": true,
   "version": "0.0.0",
@@ -25,6 +26,5 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "gh-pages": "^6.1.0",
     "vite": "^5.0.0"
-  },
-  "homepage": "https://tzuhuangyen.github.io/W6HomeWork/"
+  }
 }
